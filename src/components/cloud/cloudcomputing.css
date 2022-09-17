@@ -1,0 +1,24 @@
+.image {
+    /* transition: transform 0.1s; */
+    
+  }
+  .image:hover {
+    /* -ms-transform: scale(1.5);
+    transform: scale(1.5); */
+    /* height:150px; */
+  }
+  
+  .belowcard {
+    border-radius: 0px 0px 15px 15px;
+  }
+  .button {
+    margin-top: 5px;
+    border-radius: 20px;
+  }
+  .image {
+    /* border-radius: 30px 30px 0px 0px; */
+  }
+  .belowcard {
+    /* border-radius: 0px 0px 30px 30px; */
+  }
+  

@@ -1,0 +1,97 @@
+.home{
+    background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(2,3,39,1) 76%);
+  opacity: 0.5;
+  }
+  .bigblue {
+    color: rgb(14, 5, 64);
+    /* background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%); */
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(97, 130, 159);
+    font-size: large;
+    margin-top: 42px;
+    position: absolute;
+    left: 0px;
+    width: auto;
+    
+  }
+  
+  .Appbar {
+    font-family: Cursive;
+    font-size: 19px;
+  }
+  .container {
+    margin-top: 8px;
+    display: flex;
+    position: relative;
+    
+    margin: 3%;
+  }
+  .component {
+    height: 34px;
+  }
+  
+  .Arrow {
+    margin-top: 20px;
+    height: 50px;
+    width: 60px;
+    border-radius: 50px;
+    
+  }
+  .para{
+    margin-top:40px;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+    font-size: 28px;
+    text-align: justify;
+  
+  }
+  .que{
+    font-size: 28px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-weight:bold;
+    text-align: justify;
+    font-family:Trebuchet Ms;
+  
+  }
+  .roadmap{
+    margin-top:50px;
+    margin-left: 250px;;
+  }
+  .logo{
+    text-align: left;
+    margin-left: 0px;
+  }
+  .top{
+    width: 800px;
+    height: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  hr{
+    height: 50px;
+    background: rgb(32, 141, 32);
+    width: 100%;
+  }
+  a:hover{
+     background-color: black;
+     padding-left: 500px;
+     
+  }
+  .img{
+    transition: transform 0.07s;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 4px 4px rgb(190, 134, 179);
+  }
+  .img:hover{
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+  

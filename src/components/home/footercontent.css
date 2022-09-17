@@ -1,0 +1,100 @@
+.image {
+  transition: transform 0.1s;
+  height: 200px;
+  
+}
+
+.image:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.app {
+  margin-top: 1%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.app:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+
+.image3 {
+  margin-top: 2%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.image3:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.image3 {
+  margin-top: 2%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.image3:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.cc {
+  margin-top: 2%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.cc:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.cyber {
+  margin-top: 2%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.cyber:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.ds {
+  margin-top: 3%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.ds:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+.ml {
+  margin-top: 8%;
+  margin-left: 34%;
+  transition: transform 0.1s;
+  height: 150px;
+  
+}
+.ml:hover {
+  -ms-transform: scale(1.5);
+  transform: scale(1.5); 
+ 
+}
+
+.belowcard {
+  border-radius: 0px 0px 15px 15px;
+}
+.button {
+  margin-top: 5px;
+  border-radius: 20px;
+}
+
+
