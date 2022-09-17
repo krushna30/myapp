@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 
-
+console.log("Welcome");
 export default class appleft extends Component {
   render() {
     return (
